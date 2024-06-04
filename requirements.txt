@@ -1,0 +1,10 @@
+jupyter notebook
+pandas
+matplotlib
+seaborn
+scikit-learn
+spacy
+nltk
+torch
+transformers
+accelerate -U
